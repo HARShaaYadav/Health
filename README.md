@@ -5,7 +5,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue?style=for-the-badge&logo=typescript)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-green?style=for-the-badge)
-
 **The Most Intelligent Menstrual Cycle Prediction & Women's Health Tracking Application**
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Tech Stack](#-tech-stack) • [AI Engine](#-ai-prediction-engine) • [Contributing](#-contributing)
